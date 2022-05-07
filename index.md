@@ -2,18 +2,21 @@ Welcome to the documentation for Emergent, the Cellular Automata programming lan
 
 This documentation will hold all necessary information for you to fully handle the langauge.
 
+### Cellular Automata
+- [What is a Cellular Automaton?]
+- [Why are they important?]
+
 ### Tutorials
-- [What are Cellular Automata?]
 - [Installing Emergent]
 - [Compiling Emergent]
-- [Language Walkthrough]
+- [First Automaton]
 
 ### Example Code
 - [Rule 30]
 - [Game of Life]
 - [Wireworld]
 
-### Program Constructs
+### Programming Constructs
 - [Neighbourhood]
 - [Model]
 - [Operations]
