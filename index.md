@@ -1,4 +1,3 @@
-# Emergent Documentation
 Welcome to the documentation for Emergent, the Cellular Automata programming langauge.
 
 This documentation will hold all necessary information for you to fully handle the langauge.
