@@ -1,6 +1,6 @@
 Welcome to the documentation for Emergent, the Cellular Automata programming langauge, hosted [here](https://tbagandev.github.io/Emergent-Documentation/).
 
-This documentation will hold all necessary information for you to fully handle the langauge.
+This documentation will hold all necessary information for you to fully handle the Emergent langauge.
 
 ### Tutorials
 - [Installing Emergent](tutorial/install.md)
