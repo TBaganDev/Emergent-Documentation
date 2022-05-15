@@ -6,12 +6,12 @@ Follow these steps to compile your Emergent program:
 4. Compile the `source.cpp` file
 5. Perform `./source.cpp <input.txt> <model> <t> <output.txt>` to execute the code
 
-### NOTES:
+## Notes:
 - Perform `./emergent --help` for all options for the Emergent compiler
 - The `input.txt` and `output.txt` will keep the same dimensions
 - `<t>` is the amount of timesteps to execute
 - `<model>` is the specific model you are executing with
 
-### Other Tutorials
+## Other Tutorials
 - [Installing Emergent](install.md)
 - [Coding your first Automaton](compile.md)
