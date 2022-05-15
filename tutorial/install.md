@@ -8,4 +8,6 @@ Follow these steps to install Emergent:
 6. Compile the `main.cpp` with dependencies `ast.o` `codegen.o` `lexer.o` `parser.o` to `emergent`
 
 
-Next tutorial > [Compiling Emergent](compile.md)
+### Other Tutorials
+- [Compiling Emergent](compile.md)
+- [Coding your first Automaton](compile.md)
