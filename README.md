@@ -8,6 +8,7 @@ This documentation will hold all necessary information for you to fully handle t
 - [Coding your first Automaton](tutorial/walkthrough.md)
 
 ### Example Code
-- [Rule 30](example/rule30.md)
-- [Game of Life](example/game_of_life.md)
-- [Wireworld](example/wireworld.md)
+- [Rule 30](example/rule30.emg)
+- [Game of Life](example/game_of_life.emg)
+- [Wireworld](example/wireworld.emg)
+- [Waves](example/waves.emg)
