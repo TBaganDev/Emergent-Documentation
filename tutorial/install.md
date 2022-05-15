@@ -10,4 +10,4 @@ Follow these steps to install Emergent:
 
 ## Other Tutorials
 - [Compiling Emergent](compile.md)
-- [Coding your first Automaton](compile.md)
+- [Coding your first Automaton](walkthrough.md)
