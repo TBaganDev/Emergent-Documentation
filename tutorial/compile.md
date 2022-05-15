@@ -10,7 +10,7 @@ Follow these steps to compile your Emergent program:
 - Perform `./emergent --help` for all options for the Emergent compiler
 - The `input.txt` and `output.txt` will keep the same dimensions
 - `<t>` is the amount of timesteps to execute
-- `<model>` is the specific model you are executing with
+- `<model>` is the specific CA model you are executing with
 
 ## Other Tutorials
 - [Installing Emergent](install.md)
