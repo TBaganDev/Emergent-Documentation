@@ -14,4 +14,4 @@ Follow these steps to compile your Emergent program:
 
 ## Other Tutorials
 - [Installing Emergent](install.md)
-- [Coding your first Automaton](compile.md)
+- [Coding your first Automaton](walkthrough.md)
