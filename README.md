@@ -3,8 +3,8 @@ Welcome to the documentation for Emergent, the Cellular Automata programming lan
 This documentation will hold all necessary information for you to fully handle the langauge.
 
 ### Tutorials
-- [Installing Emergent](tutorial/compile.md)
-- [Compiling Emergent](tutorial/install.md)
+- [Installing Emergent](tutorial/install.md)
+- [Compiling Emergent](tutorial/compile.md)
 - [Coding your first Automaton](tutorial/walkthrough.md)
 
 ### Example Code
