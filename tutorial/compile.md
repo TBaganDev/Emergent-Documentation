@@ -1,2 +1,1 @@
-# Installing Emergent
-To install emergent on 
+# Compiling Emergent
