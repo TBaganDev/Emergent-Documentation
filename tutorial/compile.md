@@ -12,3 +12,6 @@ Follow these steps to compile your Emergent program:
 - `<t>` is the amount of timesteps to execute
 - `<model>` is the specific model you are executing with
 
+### Other Tutorials
+- [Installing Emergent](install.md)
+- [Coding your first Automaton](compile.md)
