@@ -6,4 +6,6 @@ Follow these steps to install Emergent:
 4. Compile the `lexer.cpp` to `lexer.o`
 5. Compile the `parser.cpp` to `parser.o`
 6. Compile the `main.cpp` with dependencies `ast.o` `codegen.o` `lexer.o` `parser.o` to `emergent`
+
+
 [>>> Compiling Emergent](compile.md)
