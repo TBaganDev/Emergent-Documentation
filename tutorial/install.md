@@ -5,7 +5,7 @@ Follow these steps to install Emergent:
 3. Compile the `codegen.cpp` to `codegen.o`
 4. Compile the `lexer.cpp` to `lexer.o`
 5. Compile the `parser.cpp` to `parser.o`
-6. Compile the `main.cpp` with dependencies `ast.o` `codegen.o` `lexer.o` `parser.o` to `emergent`
+6. Compile the `main.cpp` with dependencies `ast.o` `codegen.o` `lexer.o` `parser.o` to object binary `emergent`
 
 
 ## Other Tutorials
